@@ -11,10 +11,14 @@ Pulse is an attached local codebase folder (`Pulse/`), not a GitHub repo. Browse
 - `Pulse/packages/modules/site-visits` — the reusable module fixture
 
 ## Mockup files
-- `Pulse v4 Glass.dc.html` — current direction: dark liquid glass, lime accent, icon rail with
-  hover labels, Home = Helios chat + right rail, plus the real page set (inbox, work queues,
-  approvals, directories, universal record page, insights, automations, system health, modules,
-  notifications, settings).
+- `Pulse v4 Glass.dc.html` — the Durkin Pharmacy Group build: dark liquid glass, deep green
+  brand (#1E5B4A) with warm stone accent (#C9A96A), icon rail with hover labels, Home = Helios
+  chat + right rail. Modules in the sidebar, pages in the top bar:
+  Home · Agents · Dashboard (Overview, Margin, Service Standard) · Pricing (Price Book, Variance,
+  Margin by Category, Suppliers) · Work (Tasks, Approvals, Rosters, Hours, Workflows, Schedules) ·
+  Records (Contacts, Dispensing, Files, Ontology) · Activity · Settings.
+  Every number comes from the `F` facts block and the `SHOPS` list at the top of the logic script,
+  so a badge and the rows behind it cannot drift apart. See DEMO-SCRIPT.md.
 - `Pulse v2.dc.html`, `Pulse v3 Apple.dc.html`, `Pulse v3 Console.dc.html`, `Pulse Home.dc.html` — earlier directions, keep.
 
 ## Running the demo
